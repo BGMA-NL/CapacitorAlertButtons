@@ -5,7 +5,7 @@ Native alert buttons without message and title
 ## Install
 
 ```bash
-npm install capacitor-alert-buttons
+npm install @bgma-nl/capacitor-alert-buttons
 npx cap sync
 ```
 

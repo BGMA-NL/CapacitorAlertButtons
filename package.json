@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-alert-buttons",
+  "name": "@bgma-nlcapacitor-alert-buttons",
   "version": "0.0.2",
   "description": "Native alert buttons without message and title",
   "main": "dist/plugin.cjs.js",
@@ -16,13 +16,13 @@
     "CapacitorAlertButtons.podspec"
   ],
   "author": "BGMA",
-  "license": "Closed",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com.git"
+    "url": "git@github.com:BGMA-NL/CapacitorAlertButtons.git"
   },
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/BGMA-NL/CapacitorAlertButtons/issues"
   },
   "keywords": [
     "capacitor",
