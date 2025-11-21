@@ -1,6 +1,6 @@
 {
   "name": "@bgma-nl/capacitor-alert-buttons",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Native alert buttons without message and title",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,7 +13,7 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "CapacitorAlertButtons.podspec"
+    "BgmaNlCapacitorAlertButtons.podspec"
   ],
   "author": "BGMA",
   "license": "MIT",
