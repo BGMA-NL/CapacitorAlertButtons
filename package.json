@@ -1,6 +1,6 @@
 {
   "name": "@bgma-nl/capacitor-alert-buttons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native alert buttons without message and title",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
