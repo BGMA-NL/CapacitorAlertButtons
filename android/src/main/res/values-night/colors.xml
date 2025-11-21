@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="dialog_background_color">@android:color/transparent</color>
+    <color name="dialog_button_background_color">?attr/colorPrimary</color>
+    <color name="dialog_button_text_color">#fff</color>
+</resources>
